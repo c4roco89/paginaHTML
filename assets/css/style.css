@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+.bg-light{
+    background-color: rgba(0, 0, 0, 0.604)!important;
+    font-family: 'PT Serif', serif;
+}
